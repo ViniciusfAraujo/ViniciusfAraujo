@@ -1,7 +1,7 @@
 <div>
   <h1 >
-    Hi, my name is
-    <a href="https://www.linkedin.com/in/vinicius-araujo-304601269/" target='_blank'>Vinicius Araujo</a>
+    Olá, eu sou 
+    <a href="https://www.linkedin.com/in/vinicius-araujo-304601269/" target='_blank'>Vinicius Araujo 👋</a>
   </h1>
 </div>
 
